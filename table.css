@@ -1,0 +1,31 @@
+#one{
+    background-color: green;
+}
+.dashed {
+    border-style:dashed;
+}
+.solid {
+    border-style:solid;
+}
+#groove{
+    border-style:groove;
+    border-color:green;
+    border-width:1px;
+}
+#subject{
+    border-style:dotted;
+    border-color: blueviolet;
+font-family: 'Times New Roman', Times,serif;}
+
+
+
+
+
+
+
+
+
+
+
+
+

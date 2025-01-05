@@ -1,0 +1,23 @@
+#row{
+    background-color:orange;
+    color:blue;
+}
+.grid-container{
+    display: grid;
+     /* tells how many coulums should we applied on grid  */
+    grid-template-columns:100px 100px 100px 100px;
+    /* tells how many rows in its height */
+    grid-template-rows: 100px 100px 100px 100px 100px;
+   color:blue;
+   row-gap: 10px;
+   column-gap:10px;
+   justify-content: center;
+}
+.one{
+    border-style: dotted;
+    background-color:orange;
+    text-align: center;
+}
+   
+    
+

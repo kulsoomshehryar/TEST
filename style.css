@@ -1,56 +1,22 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    
+.one{
+    color:#ff0000; 
+}
+#head1{
+    text-align:center;
+    color:rgb(238,120,238);
+}
+.two{
+    color:;
+    text-align: end;
+}
+#two{
+    color: aqua;
 }
 
-.calculator {
-    text-align: center;
-    padding: 20px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    width: 300px;
-    background-image: url("pic.jpg");
-}
-
-.input-section input {
-    display: block;
-    margin: 10px auto;
-    padding: 10px;
-    width: 90%;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
-.buttons{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
- button {
-    margin: 5px;
-    padding: 10px 15px;
-    font-size: 18px;
-    border: none;
-    border-radius: 5px;
-    background-color: #007bff;
-    color: white;
-    cursor: pointer;
-}
-
-
- h2 {
-    margin-top: 20px;
-    color: #333;
-}
-
-button:hover{
-    background-color: blue;
-    color: purple;
+.two{
+    background-repeat:no-repeat ;
+        background-image: url("https://t4.ftcdn.net/jpg/06/75/53/11/360_F_675531132_s2zmqxcjlpdilb7MWQal2bfyNqJYb4Ky.jpg");
+    }
+#five{
+    background-image: url("https://store-images.s-microsoft.com/image/apps.30645.9007199266245907.cb06f1f9-9154-408e-b4ef-d19f2325893b.ac3b465e-4384-42a8-9142-901c0405e1bc");
 }
